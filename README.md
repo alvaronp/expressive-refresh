@@ -16,8 +16,9 @@
 
 ## Preview
 
-<!-- Add a GIF or screenshot -->
-*(Add a demo GIF of the pull-to-refresh animation here)*
+
+https://github.com/user-attachments/assets/9ae3bac7-7e4f-4f8c-8672-826c2a1cbb9c
+
 
 ---
 
