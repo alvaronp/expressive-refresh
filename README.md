@@ -16,8 +16,7 @@
 
 ## Preview
 
-
-https://github.com/user-attachments/assets/9ae3bac7-7e4f-4f8c-8672-826c2a1cbb9c
+![](onRefresh.gif)
 
 
 ---
