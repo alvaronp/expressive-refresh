@@ -1,6 +1,6 @@
 name: expressive_refresh
 description: "On refresh indicator styled with Material 3 Expressive design system"
-version: 0.1.0
+version: 0.1.2
 homepage: https://github.com/alvaronp/expressive-refresh
 
 environment:
